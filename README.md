@@ -1,4 +1,4 @@
-# Places That Go
+# Places That Go *(in LA)*
 
 ⭐=hosted a Go MeetUp
 🎤=Employee has spoken at a Go MeetUp
