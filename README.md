@@ -15,4 +15,4 @@
 |Griddy|📣|[Website](https://www.griddy.com/) - [LinkedIn](https://www.griddy.com/)|
 |Happy Returns|📣|[Website](https://www.happyreturns.com/) - [LinkedIn](https://www.linkedin.com/company/happy-returns/)|
 |Postmates|📣|[Website](https://postmates.com/) - [Glassdoor](https://www.glassdoor.com/Reviews/Postmates-Reviews-E620298.htm)|
-|Omaze|📣|[Website](https://www.omaze.com/) - [LinkedIn](https://www.linkedin.com/company/omaze/)|
+|Omaze|📣🎤|[Website](https://www.omaze.com/) - [LinkedIn](https://www.linkedin.com/company/omaze/)|
